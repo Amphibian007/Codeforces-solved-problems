@@ -1,0 +1,12 @@
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\bin\Debug\netcoreapp3.1\Problem9.exe
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\bin\Debug\netcoreapp3.1\Problem9.deps.json
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\bin\Debug\netcoreapp3.1\Problem9.runtimeconfig.json
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\bin\Debug\netcoreapp3.1\Problem9.runtimeconfig.dev.json
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\bin\Debug\netcoreapp3.1\Problem9.dll
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\bin\Debug\netcoreapp3.1\Problem9.pdb
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\obj\Debug\netcoreapp3.1\Problem9.AssemblyInfoInputs.cache
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\obj\Debug\netcoreapp3.1\Problem9.AssemblyInfo.cs
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\obj\Debug\netcoreapp3.1\Problem9.csproj.CoreCompileInputs.cache
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\obj\Debug\netcoreapp3.1\Problem9.dll
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\obj\Debug\netcoreapp3.1\Problem9.pdb
+G:\Contest Problem Solving\Codeforces-solved-problems\Week1\Problem9\obj\Debug\netcoreapp3.1\Problem9.genruntimeconfig.cache
