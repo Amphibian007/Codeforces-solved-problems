@@ -1,4 +1,7 @@
 ﻿using System;
+/// <summary>
+/// 1141A - Game 23
+/// </summary>
 
 namespace Problem12
 {
@@ -28,7 +31,7 @@ namespace Problem12
                 Console.WriteLine(count);
                else
                 Console.WriteLine(-1);
-            Console.WriteLine(5%1);
+            
         }
     }
 }
