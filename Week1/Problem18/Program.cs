@@ -6,7 +6,7 @@ namespace Problem18
     {
         static void Main(string[] args)
         {
-           
+             
 
         }
     }
